@@ -208,14 +208,14 @@ width: 2rem;
   display: block;
   }
 
-}
+
   #mid-section {
       margin: 50px;
       padding: 2% 5%;
       display: block;
       width: 100%;
   }
-  
+
   #mid2-section {
     /* padding: 2% 15%; */
     background-color: hsl(0, 0%, 75%);
@@ -231,6 +231,7 @@ width: 2rem;
     padding: 5%;
     width: 100%;
   }
+
 .feature{
   display: block;
 }
